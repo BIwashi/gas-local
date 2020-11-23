@@ -1,0 +1,1 @@
+docker-compose exec gas clasp push  
